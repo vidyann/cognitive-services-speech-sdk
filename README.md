@@ -178,6 +178,28 @@ Samples for using the Speech Service REST API (no Speech SDK installation requir
 
 - [Sample data for Custom Speech](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/sampledata/customspeech)
 
+## Contributing
+
+We welcome contributions to this repository! Whether you're fixing bugs, improving documentation, or adding new samples, your contributions help make this resource better for the community.
+
+### How to Contribute
+
+- **Report Issues**: Found a bug or have a suggestion? Please [open an issue](https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/new) to let us know.
+- **Submit Pull Requests**: Ready to contribute code? We'd love to review your pull request.
+- **Improve Documentation**: Help us make our documentation clearer and more comprehensive.
+
+Before contributing, please read our [detailed contributing guidelines](CONTRIBUTING.md) which include information about our development process, how to propose bugfixes and improvements, and how to build and test your changes.
+
+All contributors must agree to the [Microsoft Contributor License Agreement (CLA)](https://cla.microsoft.com) and follow our [Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+The MIT License is a permissive license that allows for reuse within proprietary software provided that all copies of the licensed software include a copy of the MIT License terms and the copyright notice.
+
+**Note**: By downloading the Microsoft Cognitive Services Speech SDK, you acknowledge its license. See [Speech SDK license agreement](https://aka.ms/csspeech/license) for more details.
+
 ## Resources
 
 - [Microsoft Cognitive Services Speech Service and SDK Documentation](https://aka.ms/csspeech)
